@@ -1,12 +1,37 @@
-![Imagem Topo](./.github/assets/logo-topo.png)
+<!-- ![Imagem Topo](./.github/assets/logo-topo.png) -->
 
-<h2 align="center">
-    Hello, world. 👋
-</h2>
+<!-- <h2 align="center"> -->
 
-<p align="center">
-    <b>I'm Thyago, passionate about different areas of this wonderful world of technology.</b>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Thyago+José;I'm+32+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- <h2>
+   Oi!! Eu sou Thyago 👋
+</h2> -->
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) -->
+
+<p>
+    <ul>
+    <li> Desenvolvedor Full Stack </li>
+    <li> Extremamente curioso e amante da tecnologia </li>
+    </ul>
 </p>
+
+
+  <!-- <div>      
+        <img src="https://github-readme-stats.vercel.app/api?username=Thyagoj7&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thyagoj7&theme=dark" alt="Techs utilizadas nos projetos" />
+   
+   </div>  -->
+
+   <div>  
+  <img  src="https://github-readme-stats.vercel.app/api?username=Thyagoj7&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FFicon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Thyago Jose github stats" /> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyagoj7&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=ff91a4&bg_color=0d1117" />
+
+  </div>
 
 <p align="center">
     Welcome to my github, here you will find my projects and collaborations for the open source world.
@@ -32,7 +57,7 @@
     </a>
 </p>
 
-<details>
+<!-- <details>
     <summary>More about me</summary>
     <p>Passionate about technology, always ready to learn and help!
     </p>
@@ -54,6 +79,6 @@
         <b>The technologies used in the projects</b> <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thyagoj7&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
-</details>
+</details> -->
 
-![Imagem Rodapé](./.github/assets/logo-rodape.png)
+<!-- ![Imagem Rodapé](./.github/assets/logo-rodape.png) -->
