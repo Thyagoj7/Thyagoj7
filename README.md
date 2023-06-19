@@ -22,8 +22,8 @@
 
 
   <!-- <div>      
-        <img src="https://github-readme-stats.vercel.app/api?username=Thyagoj7&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thyagoj7&theme=dark" alt="Techs utilizadas nos projetos" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thyagoj7&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Thyagoj7&theme=dark" alt="Techs utilizadas nos projetos" />
    
    </div>  -->
 
